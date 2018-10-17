@@ -6,8 +6,7 @@
 Vijit 	vijitvidya007
 # THANKS
 
-    <name>
-
+Thanks everyone
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
