@@ -8,6 +8,7 @@ Vijit 	vijitvidya007
 
 Thanks everyone
 # TECHNOLOGY COLOPHON
+Please leave a review if you like it
 
     HTML5, CSS3
     jQuery, Modernizr
