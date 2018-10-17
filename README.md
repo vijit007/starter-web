@@ -10,6 +10,9 @@ Sample website with plenty of files for demos
 
 # Deployment  stats in 2
 
+Adding extra lines here
+COPYRIGHTS
+
 #
 Modifying
 
